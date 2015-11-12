@@ -1,0 +1,12 @@
+[submodule "busybox-rootfs"]
+	path = busybox-rootfs
+	url = https://github.com/enclustra-bsp/busybox-rootfs
+[submodule "xilinx-uboot"]
+	path = xilinx-uboot
+	url = https://github.com/enclustra-bsp/xilinx-uboot
+[submodule "xilinx-linux"]
+	path = xilinx-linux
+	url = https://github.com/enclustra-bsp/xilinx-linux
+[submodule "xilinx-linux-rt"]
+	path = xilinx-linux-rt
+	url = https://github.com/enclustra-bsp/xilinx-linux.git
