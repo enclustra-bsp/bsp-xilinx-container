@@ -1,5 +1,5 @@
-[submodule "busybox-rootfs"]
-	path = busybox-rootfs
+[submodule "buildroot-rootfs"]
+	path = buildroot-rootfs
 	url = ../busybox-rootfs
 [submodule "xilinx-uboot"]
 	path = xilinx-uboot
