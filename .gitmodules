@@ -10,3 +10,6 @@
 [submodule "xilinx-linux-rt"]
 	path = xilinx-linux-rt
 	url = ../xilinx-linux
+[submodule "busybox-rootfs"]
+	path = busybox-rootfs
+	url = ../busybox-rootfs
